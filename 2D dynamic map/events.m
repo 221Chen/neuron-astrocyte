@@ -1,0 +1,10 @@
+function [value,isterminal,direction] = events(t,x, alpha, bet)
+fx = f(t,x, alpha, bet);
+value = fx(1);
+isterminal = false;
+direction = -1;
+% function [value,isterminal,direction] = events(t,x)
+% fx = f(t,x);
+% value = fx(1);
+% isterminal = false;
+% direction = -1;

@@ -1,0 +1,6 @@
+The code provided here runs in the MATLAB environment
+
+Some parts have been modified, please pay attention to discrimination
+
+k7 in the model (HR subfile) represents λ 1, and k8 represents λ 2
+
